@@ -1,0 +1,27 @@
+#contact{
+  color: red !important;
+  text-shadow: 1px 1px black;
+}
+#projects{
+  color: yellow !important;
+  text-shadow: 1px 1px black;
+}
+#about{
+  color: blue !important;
+  text-shadow: 1px 1px black;
+}
+.navbar {
+  background-color: white;
+}
+.navbar-nav {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  font-size: 3em;
+}
+.construction {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
